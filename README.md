@@ -545,7 +545,7 @@ HaqDarmand AI was developed as a collaborative hackathon project with clearly se
 | 🎥 Demo Video                    | **[Demo Video](DEMO_VIDEO_URL)**         |
 | 🧪 Test Report / Bug Report      | **[Testing Documentation](TESTING_URL)** |
 
-> Replace each placeholder URL with the final submission link before the hackathon deadline.
+
 
 ---
 
