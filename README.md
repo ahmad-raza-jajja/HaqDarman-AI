@@ -11,6 +11,16 @@ Instead of searching through scattered information across different websites and
 
 ---
 
+# 🌐 Live Application
+
+Try the deployed application:
+
+**[🚀 Launch HaqDarmand AI — LIVE APP](LIVE_APP_URL)**
+
+> Replace `LIVE_APP_URL` with the final deployed application URL before submission.
+
+---
+
 ## 🎯 The Problem
 
 Millions of people may be eligible for scholarships, financial assistance, healthcare support, and other public-benefit programs, but discovering the right opportunities can be difficult.
