@@ -43,7 +43,7 @@ HaqDarmand AI was developed as a collaborative hackathon project with clearly se
 | 🚀 Live Application              | **[Live App](https://haqdarman-ai-rdivsvgkpkgorkyb4mf9ly.streamlit.app/)**             |
 | 📊 Presentation Slides           | **[Slides](https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing)**                 |
 | 📋 Product Requirements Document | **[PRD](https://docs.google.com/document/d/1sJgdplzZXns3vlqx1lXasjqW2EQSOjJO/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)**                       |
-| 🎥 Demo Video                    | **[Demo Video](DEMO_VIDEO_URL)**         |
+| 🎥 Demo Video                    | **[Demo Video](https://drive.google.com/file/d/1N91hURW9KIIEe4Xkj37Vsws_D32i5wzZ/view?usp=sharing)**         |
 | 🧪 Test Report / Bug Report      | **[Testing Documentation](https://docs.google.com/document/d/17npmHuHQ48Mr9Ao83jsZAoxcyrvop_1_/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)** |
 
  ---
@@ -531,7 +531,7 @@ Additional project documentation:
 
 * **PRD:** [https://docs.google.com/document/d/1sJgdplzZXns3vlqx1lXasjqW2EQSOjJO/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true]
 * **Presentation:** [https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing]
-* **Demo:** [DEMO_VIDEO_URL]
+* **Demo:** [https://drive.google.com/file/d/1N91hURW9KIIEe4Xkj37Vsws_D32i5wzZ/view?usp=sharing]
 * **Testing Report:** [https://docs.google.com/document/d/17npmHuHQ48Mr9Ao83jsZAoxcyrvop_1_/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true]
 
 ---
