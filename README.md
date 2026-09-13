@@ -421,16 +421,6 @@ The application should then be available through the local Streamlit address sho
 
 ---
 
-# 🌐 Live Application
-
-Try the deployed application:
-
-**[🚀 Launch HaqDarmand AI — LIVE APP](LIVE_APP_URL)**
-
-> Replace `LIVE_APP_URL` with the final deployed application URL before submission.
-
----
-
 # 📸 Screenshots
 
 ### Home / Landing Page
