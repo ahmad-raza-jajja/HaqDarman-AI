@@ -525,10 +525,10 @@ HaqDarmand AI was developed as a collaborative hackathon project with clearly se
 | Member       | Responsibility                        |
 | ------------ | ------------------------------------- |
 | **Ahmad Raza** | Team Lead, GitHub & Integration       |
-| **Kumar** | Data & Research                       |
-| **Ukasha** | Eligibility, Retrieval/RAG & AI       |
-| **Eman** | Frontend & Streamlit                  |
-| **Ubaid Ullah** | Testing, Documentation & Presentation |
+| **** | Data & Research                       |
+| **** | Eligibility, Retrieval/RAG & AI       |
+| **** | Frontend & Streamlit                  |
+| **** | Testing, Documentation & Presentation |
 
 ---
 
