@@ -15,7 +15,7 @@ Instead of searching through scattered information across different websites and
 
 Try the deployed application:
 
-**[🚀 Launch HaqDarmand AI — LIVE APP](LIVE_APP_URL)**
+**[🚀 Launch HaqDarmand AI — LIVE APP](https://haqdarman-ai-rdivsvgkpkgorkyb4mf9ly.streamlit.app/)**
 
 ---
 
@@ -40,7 +40,7 @@ HaqDarmand AI was developed as a collaborative hackathon project with clearly se
 | Deliverable                      | Link                                     |
 | -------------------------------- | ---------------------------------------- |
 | 💻 GitHub Repository             | **[Repository](https://github.com/ahmad-raza-jajja/HaqDarman-AI)**  |
-| 🚀 Live Application              | **[Live App](LIVE_APP_URL)**             |
+| 🚀 Live Application              | **[Live App](https://haqdarman-ai-rdivsvgkpkgorkyb4mf9ly.streamlit.app/)**             |
 | 📊 Presentation Slides           | **[Slides](https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing)**                 |
 | 📋 Product Requirements Document | **[PRD](https://docs.google.com/document/d/1sJgdplzZXns3vlqx1lXasjqW2EQSOjJO/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)**                       |
 | 🎥 Demo Video                    | **[Demo Video](DEMO_VIDEO_URL)**         |
