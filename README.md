@@ -17,7 +17,7 @@ Try the deployed application:
 
 **[🚀 Launch HaqDarmand AI — LIVE APP](LIVE_APP_URL)**
 
-> Replace `LIVE_APP_URL` with the final deployed application URL before submission.
+
 
 ---
 
