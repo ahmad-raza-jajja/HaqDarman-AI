@@ -448,27 +448,7 @@ The application should then be available through the local Streamlit address sho
 
 ---
 
-# 📸 Screenshots
 
-### Home / Landing Page
-
-![HaqDarmand AI Home](assets/screenshots/home.png)
-
-### User Information Form
-
-![User Information Form](assets/screenshots/form.png)
-
-### Benefits Results
-
-![Benefits Results](assets/screenshots/results.png)
-
-### AI Explanation
-
-![AI Explanation](assets/screenshots/ai-explanation.png)
-
-> Add the final screenshots to `assets/screenshots/` before submitting the project.
-
----
 
 # 🧪 Testing
 
