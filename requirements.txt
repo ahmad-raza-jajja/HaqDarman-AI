@@ -1,8 +1,0 @@
-streamlit
-pandas
-openpyxl
-python-dotenv
-langchain-core
-langchain-google-genai
-langchain-chroma
-chromadb
