@@ -44,7 +44,7 @@ HaqDarmand AI was developed as a collaborative hackathon project with clearly se
 | 📊 Presentation Slides           | **[Slides](https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing)**                 |
 | 📋 Product Requirements Document | **[PRD](https://docs.google.com/document/d/1sJgdplzZXns3vlqx1lXasjqW2EQSOjJO/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)**                       |
 | 🎥 Demo Video                    | **[Demo Video](DEMO_VIDEO_URL)**         |
-| 🧪 Test Report / Bug Report      | **[Testing Documentation](TESTING_URL)** |
+| 🧪 Test Report / Bug Report      | **[Testing Documentation](https://docs.google.com/document/d/17npmHuHQ48Mr9Ao83jsZAoxcyrvop_1_/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)** |
 
  ---
  
@@ -532,7 +532,7 @@ Additional project documentation:
 * **PRD:** [https://docs.google.com/document/d/1sJgdplzZXns3vlqx1lXasjqW2EQSOjJO/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true]
 * **Presentation:** [https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing]
 * **Demo:** [DEMO_VIDEO_URL]
-* **Testing Report:** [TESTING_URL]
+* **Testing Report:** [https://docs.google.com/document/d/17npmHuHQ48Mr9Ao83jsZAoxcyrvop_1_/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true]
 
 ---
 
