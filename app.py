@@ -1,4 +1,4 @@
-﻿import streamlit as st
+import streamlit as st
 import pandas as pd
 from pathlib import Path
 
@@ -312,21 +312,7 @@ else:
 # ==========================================
 
 st.markdown(
-    f"""
-    <div class="hero">
-
-        <h1>{title}</h1>
-
-        <p>
-        {subtitle}
-        </p>
-
-        <p>
-        {description}
-        </p>
-
-    </div>
-    """,
+    f"""<div class="hero"><h1>{title}</h1><p>{subtitle}</p><p>{description}</p></div>""",
     unsafe_allow_html=True
 )
 
@@ -892,16 +878,6 @@ if "matches" in st.session_state:
 st.divider()
 
 st.markdown(
-    f"""
-    <div class="footer">
-
-    🤝 HaqDarmand AI
-
-    <br><br>
-
-    {footer_text}
-
-    </div>
-    """,
+    f"""<div class="footer">🤝 HaqDarmand AI<br><br>{footer_text}</div>""",
     unsafe_allow_html=True
 )
