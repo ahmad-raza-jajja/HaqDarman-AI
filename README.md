@@ -17,10 +17,37 @@ Try the deployed application:
 
 **[🚀 Launch HaqDarmand AI — LIVE APP](LIVE_APP_URL)**
 
+---
 
+# 👥 Team
+
+HaqDarmand AI was developed as a collaborative hackathon project with clearly separated responsibilities across data, AI, frontend, integration, testing, and documentation.
+
+| Member       | Responsibility                        |
+| ------------ | ------------------------------------- |
+| **Ahmad Raza** | Team Lead, GitHub & Integration       |
+| **Kumar** | Data & Research                       |
+| **Ukasha** | Eligibility, Retrieval/RAG & AI       |
+| **Eman** | Frontend & Streamlit                  |
+| **Ubaid Ullah** | Testing, Documentation & Presentation |
 
 ---
 
+# 📦 Hackathon Submission
+
+### Final Project Package
+
+| Deliverable                      | Link                                     |
+| -------------------------------- | ---------------------------------------- |
+| 💻 GitHub Repository             | **[Repository](https://github.com/ahmad-raza-jajja/HaqDarman-AI)**  |
+| 🚀 Live Application              | **[Live App](LIVE_APP_URL)**             |
+| 📊 Presentation Slides           | **[Slides](https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing)**                 |
+| 📋 Product Requirements Document | **[PRD](https://docs.google.com/document/d/1sJgdplzZXns3vlqx1lXasjqW2EQSOjJO/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)**                       |
+| 🎥 Demo Video                    | **[Demo Video](DEMO_VIDEO_URL)**         |
+| 🧪 Test Report / Bug Report      | **[Testing Documentation](TESTING_URL)** |
+
+ ---
+ 
 ## 🎯 The Problem
 
 Millions of people may be eligible for scholarships, financial assistance, healthcare support, and other public-benefit programs, but discovering the right opportunities can be difficult.
