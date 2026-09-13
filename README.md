@@ -540,7 +540,7 @@ HaqDarmand AI was developed as a collaborative hackathon project with clearly se
 | -------------------------------- | ---------------------------------------- |
 | 💻 GitHub Repository             | **[Repository](GITHUB_REPOSITORY_URL)**  |
 | 🚀 Live Application              | **[Live App](LIVE_APP_URL)**             |
-| 📊 Presentation Slides           | **[Slides](SLIDES_URL)**                 |
+| 📊 Presentation Slides           | **[Slides](https://docs.google.com/presentation/d/1Ev4QYuX26xImGuRe47SuLWLe738IQmqwN8BL7hCT4xA/edit?usp=sharing)**                 |
 | 📋 Product Requirements Document | **[PRD](PRD_URL)**                       |
 | 🎥 Demo Video                    | **[Demo Video](DEMO_VIDEO_URL)**         |
 | 🧪 Test Report / Bug Report      | **[Testing Documentation](TESTING_URL)** |
