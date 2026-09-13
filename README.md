@@ -576,10 +576,9 @@ The goal is not simply to provide another chatbot, but to create a structured be
 
 This project is currently intended as a hackathon project.
 
-Add the appropriate license here before public release:
 
 ```text
-LICENSE: [ADD LICENSE]
+LICENSE: MIT
 ```
 
 ---
